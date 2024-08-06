@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>table tag</title>
+</head>
+<body>
+    <table>
+        <thead>
+            <tr>
+                <th>student id</th>
+                <th>student name</th>
+</tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>
+                    20UC1A0559
+                </td>
+                <td>
+                    sathwika
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    20UC1A0555
+                </td>
+                <td>
+                    akhila
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    20UC1A0556
+                </td>
+                <td>
+                    jahanavi
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    20UC1A0557
+                </td>
+                <td>
+                    srawika
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    20UC1A0558
+                </td>
+                <td>
+                    sathwik
+                </td>
+            </tr>
+
+        </tbody>
+    </table>
+</body>
+</html>
